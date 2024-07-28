@@ -1,5 +1,7 @@
 package swiggylogin;
 
+import java.lang.reflect.Method;
+
 public class SWlogin {
 	
 	
@@ -17,6 +19,7 @@ public class SWlogin {
 
 	}
 	
+<<<<<<< HEAD
 private void tamil() {
 	// TODO Auto-generated method stub
 
@@ -30,5 +33,29 @@ private void telgu() {
 	// TODO Auto-generated method stub
 
 }
+=======
+           private void method1() {
+			// TODO Auto-generated method stub
+>>>>>>> 75730852e6ef062f7f58247788eff39887d7ee68
 
+		}
+           
+           
+           private void method2() {
+			// TODO Auto-generated method stub
+
+		}
+           private void method3() {
+			// TODO Auto-generated method stub
+
+		}
+           
+           
+           
+           
+           
+           
+           
+           
+           
 }
