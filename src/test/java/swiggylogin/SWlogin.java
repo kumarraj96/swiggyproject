@@ -17,5 +17,18 @@ public class SWlogin {
 
 	}
 	
+private void tamil() {
+	// TODO Auto-generated method stub
+
+}
+
+private void hindi() {
+	// TODO Auto-generated method stub
+
+}
+private void telgu() {
+	// TODO Auto-generated method stub
+
+}
 
 }
